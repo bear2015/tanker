@@ -1,0 +1,44 @@
+﻿生成启动时间为 2015/4/11 15:52:08。
+     1>项目“C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\CTankWar_GDIVersion 【已完成】.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\CTankWar_GDIVersion 【已完成】.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CAnimaGDI.cpp CApp.cpp CBulletGDI.cpp CEnemyGDI.cpp CIni.cpp CMapGDI.cpp CPlayerGDI.cpp CScreenGDI.cpp CSoundManagerBASS.cpp CSpriteGDI.cpp CTankWar.cpp WinMain.cpp
+         CAnimaGDI.cpp
+         CApp.cpp
+         CBulletGDI.cpp
+         CEnemyGDI.cpp
+         CIni.cpp
+         CMapGDI.cpp
+         CPlayerGDI.cpp
+         CScreenGDI.cpp
+         CSoundManagerBASS.cpp
+         CSpriteGDI.cpp
+         CTankWar.cpp
+         WinMain.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\Release\CTankWar_GDIVersion 【已完成】.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\CTankWar_GDIVersion 【已完成】.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\Release\CTankWar_GDIVersion 【已完成】.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\Release\CTankWar_GDIVersion 【已完成】.lib" /MACHINE:X86 Release\CAnimaGDI.obj
+         Release\CApp.obj
+         Release\CBulletGDI.obj
+         Release\CEnemyGDI.obj
+         Release\CIni.obj
+         Release\CMapGDI.obj
+         Release\CPlayerGDI.obj
+         Release\CScreenGDI.obj
+         Release\CSoundManagerBASS.obj
+         Release\CSpriteGDI.obj
+         Release\CTankWar.obj
+         Release\WinMain.obj
+         正在生成代码
+         已完成代码的生成
+         CTankWar_GDIVersion 【已完成】.vcxproj -> C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\Release\CTankWar_GDIVersion 【已完成】.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\Release\CTankWar_GDIVersion 【已完成】.exe;#1" /manifest "Release\CTankWar_GDIVersion 【已完成】.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\CTankWar_GDIVersion 【已完成】.unsuccessfulbuild”。
+         正在对“Release\CTankWar_GDIVersion 【已完成】.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\CTankWar_GDIVersion 【已完成】.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.56

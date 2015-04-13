@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CTankWar_GDIVersion 【已完成】">
+</Property><Property Name="解决方案文件" Value="C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\CTankWar_GDIVersion 【已完成】.sln">
+</Property><Property Name="Date" Value="2015年4月11日">
+</Property><Property Name="Time" Value="15:50">
+</Property></Properties><Event ErrorLevel="0" Project="CTankWar_GDIVersion 【已完成】" Source="CTankWar_GDIVersion 【已完成】.vcproj" Description="Converting project file 'C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\CTankWar_GDIVersion 【已完成】.vcproj'.">
+</Event><Event ErrorLevel="1" Project="CTankWar_GDIVersion 【已完成】" Source="CTankWar_GDIVersion 【已完成】.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="CTankWar_GDIVersion 【已完成】" Source="CTankWar_GDIVersion 【已完成】.vcproj" Description="Done converting to new project file 'C:\Users\ThinkPad\Desktop\坦克大战 【GDI 版】\CTankWar_GDIVersion 【已完成】.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="CTankWar_GDIVersion 【已完成】" Source="CTankWar_GDIVersion 【已完成】.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CTankWar_GDIVersion 【已完成】.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="CTankWar_GDIVersion 【已完成】.sln" Description="Converted">
+</Event></UpgradeLog>

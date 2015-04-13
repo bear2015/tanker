@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTankWar_GDIVersion 【已完成】", "CTankWar_GDIVersion 【已完成】.vcxproj", "{37016DD2-1D96-4DB1-89CD-7CF4A61FD3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37016DD2-1D96-4DB1-89CD-7CF4A61FD3E8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37016DD2-1D96-4DB1-89CD-7CF4A61FD3E8}.Debug|Win32.Build.0 = Debug|Win32
+		{37016DD2-1D96-4DB1-89CD-7CF4A61FD3E8}.Release|Win32.ActiveCfg = Release|Win32
+		{37016DD2-1D96-4DB1-89CD-7CF4A61FD3E8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
